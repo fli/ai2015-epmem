@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{dechter2003constraint}
+Dechter, R.: Constraint processing. Morgan Kaufmann (2003)
+
+\bibitem{derbinsky2009efficiently}
+Derbinsky, N., Laird, J.E.: Efficiently implementing episodic memory. In:
+  Case-Based Reasoning Research and Development, pp. 403--417. Springer (2009)
+
+\bibitem{derbinsky2012effective}
+Derbinsky, N.L.: Effective and efficient memory for generally intelligent
+  agents. Ph.D. thesis, The University of Michigan (2012)
+
+\bibitem{laird2008extending}
+Laird, J.E.: Extending the soar cognitive architecture. Frontiers in Artificial
+  Intelligence and Applications  171,  224 (2008)
+
+\bibitem{laird12}
+Laird, J.E.: The {Soar} Cognitive Architecture. The {MIT} Press (2012)
+
+\bibitem{nuxoll2004cognitive}
+Nuxoll, A., Laird, J.E.: A cognitive model of episodic memory integrated with a
+  general cognitive architecture. In: ICCM. pp. 220--225. Citeseer (2004)
+
+\end{thebibliography}
